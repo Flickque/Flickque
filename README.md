@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Flickque!
-- 📫 zposlovskii@gmail.com
+👋 Hi, I’m @Flickque!
+📫 zposlovskii@gmail.com
 
 <!---
 Flickque/Flickque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
